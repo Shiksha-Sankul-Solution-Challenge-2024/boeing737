@@ -1,4 +1,3 @@
-
 ## Overview
 
 The Learning Enhancement System is designed to identify slow and fast learners and implement effective methods to upgrade the learning curve.
@@ -22,13 +21,10 @@ The main objective of this project is to:
 - **Personalized Learning Paths:** Create tailored learning paths or (ILP) individualized learning plan for slow learners to match their pace and comprehension.
 - **Adaptive Assessments:** Offer adaptive assessments to adjust difficulty levels based on learner performance.
 
+![image](https://github.com/Shiksha-Sankul-Solution-Challenge-2024/boeing737/blob/main/frontend/src/assets/images/General%20Flow%20Diagram.jpg)# General Flow Diagram
+![image](https://github.com/Shiksha-Sankul-Solution-Challenge-2024/boeing737/blob/main/frontend/src/assets/images/Detailed%20System%20Architecture.jpg)# Detailed System Architecture
 
-![image](https://github.com/SIH-PCCOER-2023/shiksha-sankul/assets/92770843/819aa3a2-3321-4fad-af74-9880e09043af)# Learning Enhancement System
-
-
-
-
-- 
+-
 
 ## Getting Started
 
@@ -49,14 +45,3 @@ The main objective of this project is to:
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests to suggest improvements or additional features.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Authors
-
-- [Author 1](link-to-author-1)
-- [Author 2](link-to-author-2)
-
-
